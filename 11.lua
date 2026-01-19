@@ -9,7 +9,8 @@ local authData = {
                     executors = {
                         "Solara",
                     },
-                    expiresAt = "lifetime", -- DD.MM.YY или "lifetime"
+                    expiresAt = "lifetime",
+                    version = "Private"  -- НОВОЕ: Private версия
                 }
             },
             banned = false
@@ -24,6 +25,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "lifetime",
+                    version = "Public"
                 }
             },
             banned = false
@@ -38,6 +40,7 @@ local authData = {
                         "Xeno",
                     },
                     expiresAt = "lifetime",
+                    version = "Public"
                 }
             },
             banned = false
@@ -52,6 +55,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
@@ -66,6 +70,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
@@ -80,6 +85,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
@@ -94,6 +100,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
@@ -108,6 +115,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
@@ -122,6 +130,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
@@ -136,6 +145,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
@@ -150,6 +160,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
@@ -164,6 +175,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
@@ -178,6 +190,7 @@ local authData = {
                         "",
                     },
                     expiresAt = "",
+                    version = "Public"
                 }
             },
             banned = false
